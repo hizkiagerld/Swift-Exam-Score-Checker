@@ -1,4 +1,4 @@
-This code will be functioned as Exam Score Checker that is consisft of 4 subjects (English, History, Science, Social) to let user know if they are passed or failed the exam by checking their score on the terminal.
+This code will be functioned as Exam Score Checker that is consist of 4 subjects (English, History, Science, Social) to let user know if they are passed or failed the exam by checking their score on the terminal.
 The code will run with swift run command on the terminal. 
 
 The score minimum was set by 70. The user must first enter their full name that is consists of characters, not numbers.
