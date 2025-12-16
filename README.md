@@ -7,4 +7,5 @@ Finally, the user will submit their score to see if they passed or failed the ex
 
 
 This video will help to understand the code's purpose.
-![2025-12-16 11-37-23](https://github.com/user-attachments/assets/f691b9ad-f417-48c8-9673-cc4fe545bc6a)
+![2025-12-16 11-37-23](https://github.com/user-attachments/assets/f874f7e6-9e71-40ec-8613-dfe80c1d7d5e)
+
